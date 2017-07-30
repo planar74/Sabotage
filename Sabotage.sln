@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26430.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sabotage", "Sabotage\Sabotage.csproj", "{AFCC25D9-FD6E-4208-B38D-993E03F736B6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Configurator", "Configurator\Configurator.csproj", "{8DB17662-B6A4-4E2A-B020-DAF3A0E1783D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AFCC25D9-FD6E-4208-B38D-993E03F736B6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AFCC25D9-FD6E-4208-B38D-993E03F736B6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AFCC25D9-FD6E-4208-B38D-993E03F736B6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AFCC25D9-FD6E-4208-B38D-993E03F736B6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8DB17662-B6A4-4E2A-B020-DAF3A0E1783D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8DB17662-B6A4-4E2A-B020-DAF3A0E1783D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8DB17662-B6A4-4E2A-B020-DAF3A0E1783D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8DB17662-B6A4-4E2A-B020-DAF3A0E1783D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
